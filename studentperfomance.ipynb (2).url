@@ -1,0 +1,6 @@
+[InternetShortcut]
+URL=http://localhost:8888/notebooks/studentperfomance.ipynb
+IDList=
+HotKey=0
+IconFile=C:\Users\DELL\AppData\Local\Mozilla\Firefox\Profiles\7obb4xgc.default-release\shortcutCache\ykxrtghPSwrRxNEFwueit0kxWaDeL9MkmMyQb+yne+g=.ico
+IconIndex=0
